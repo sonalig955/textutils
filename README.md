@@ -11,8 +11,9 @@ Following functionalities are implemented in the app :
 5) Remove Extra Space
 6) Clear text
 7) It also shows :
-     Count of Characters
-     Count of Words
+    1) Count of Characters
+    2) Count of Words
+     
 
 
 🛠️ Technology Used
