@@ -1,0 +1,6 @@
+.accordion-button::after{
+  filter: invert(1);
+}
+[role=navigation] {
+  overflow: auto !important
+}
