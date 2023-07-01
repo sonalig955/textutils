@@ -4,27 +4,34 @@ Try App Here :- http://textutility-text-to-speech.netlify.app
 
 🔥Features
 Following functionalities are implemented in the app :
-
-Text To Speech (Listen)
-Convert to UPPERCASE
-Convert to lowercase
-Capitalize text
-Remove Extra Space
-Clear text
-It also shows :
-
-Count of Characters
-Count of Words
-Count of Space
-Reading Time
+1) Text To Speech (Listen)
+2) Convert to UPPERCASE
+3) Convert to lowercase
+4) Capitalize text
+5) Remove Extra Space
+6) Clear text
+7) It also shows :
+     Count of Characters
+     Count of Words
 
 
 🛠️ Technology Used
-React.JS
+1) React.JS
+2) Bootstrap
+3) Netlify
 
-Bootstrap
 
-Netlify
+
+
+
+
+
+
+
+
+
+
+
 
 
 ![image](https://github.com/sonalig955/textutils/assets/69581685/5259b1dd-8361-40d9-8620-09e19b266e06)
